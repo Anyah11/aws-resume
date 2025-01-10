@@ -1,6 +1,9 @@
-# 👉 Kelechi Emmanuel Anyanwu - Resume Website
+#  Kelechi Emmanuel Anyanwu - Resume Website
 
 Welcome to the repository for my **personal resume website**! This is a static website hosted on **Amazon S3** and deployed using **AWS Amplify**. The website showcases my skills, education, experience, and projects, serving as a professional portfolio to highlight my background.
+
+## Live Website
+You can view the live website here: [Kelechi Emmanuel Anyanwu - Resume](https://staging.d7kqtiblphwzo.amplifyapp.com/)
 
 ## Features
 - **Static Website**: Built using HTML, CSS, and JavaScript for fast and responsive performance.
