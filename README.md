@@ -30,15 +30,15 @@ This project demonstrates my journey toward becoming a **DevOps Engineer** and h
 3. Configured bucket policies to allow public read access for the website content.
 4. Tested the website using the S3 bucket endpoint.
 
-# Deploying with AWS Amplify
+## Deploying with AWS Amplify
 
-## Amplify Console Setup
-- Logged into the **AWS Amplify Console** and started the setup for a new Amplify app.
-- Connected the Amplify app to the **GitHub repository** containing the website's source code.
+### Amplify Console Setup
+1. Logged into the **AWS Amplify Console** and started the setup for a new Amplify app.
+2. Connected the Amplify app to the **GitHub repository** containing the website's source code.
 
-## Integration with Amazon S3
-- Linked the Amplify project to the previously created **S3 bucket** to enable storage and retrieval of static website content.
-- Configured Amplify to use the S3 bucket as the primary storage for the website files during the build and deployment process.
+### Integration with Amazon S3
+3. Linked the Amplify project to the previously created **S3 bucket** to enable storage and retrieval of static website content.
+4. Configured Amplify to use the S3 bucket as the primary storage for the website files during the build and deployment process.
 
 
 ## Explore
